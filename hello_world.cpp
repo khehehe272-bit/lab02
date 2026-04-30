@@ -1,1 +1,1 @@
-#include <iostream>\n#include <string>\n\nint main() {\n    std::string name;\n    std::cout << "Enter your name: ";\n    std::cin >> name;\n    std::cout << "Hello world from @" << name << std::endl;\n    return 0;\n}
+#include <iostream>\n#include <string>\n\nint main() {\n    std::string name;\n    std::cout << "Введите ваше имя: ";\n    std::cin >> name;\n    std::cout << "Hello world from @" << name << std::endl;\n    return 0;\n}
